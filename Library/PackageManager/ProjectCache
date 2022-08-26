@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637944453898643117
-    m_Hash: 3100380108
+      ticks: 637949626617057460
+    m_Hash: 1161362477
   m_LockFileStatus:
     m_FilePath: D:/WorkSpace/Unity/Adventure/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637944454124103690
-    m_Hash: 3022469016
+      ticks: 637949626691694307
+    m_Hash: 782428049
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -160,6 +160,7 @@ m_ResolvedPackages:
     - com.neuecc.unirx
     - com.openupm
     - io.nekonya.tinax.core
+    - io.nekonya.tinax.i18n
     - io.nekonya.tinax.uikit
     - io.nekonya.tinax.vfs
     - io.nekonya.tinax.xcomponent
@@ -214,6 +215,7 @@ m_ResolvedPackages:
     - com.neuecc.unirx
     - com.openupm
     - io.nekonya.tinax.core
+    - io.nekonya.tinax.i18n
     - io.nekonya.tinax.uikit
     - io.nekonya.tinax.vfs
     - io.nekonya.tinax.xcomponent
@@ -1327,6 +1329,7 @@ m_ResolvedPackages:
     - com.neuecc.unirx
     - com.openupm
     - io.nekonya.tinax.core
+    - io.nekonya.tinax.i18n
     - io.nekonya.tinax.uikit
     - io.nekonya.tinax.vfs
     - io.nekonya.tinax.xcomponent
@@ -1423,6 +1426,7 @@ m_ResolvedPackages:
     - com.neuecc.unirx
     - com.openupm
     - io.nekonya.tinax.core
+    - io.nekonya.tinax.i18n
     - io.nekonya.tinax.uikit
     - io.nekonya.tinax.vfs
     - io.nekonya.tinax.xcomponent
@@ -3163,6 +3167,7 @@ m_ResolvedPackages:
     - com.neuecc.unirx
     - com.openupm
     - io.nekonya.tinax.core
+    - io.nekonya.tinax.i18n
     - io.nekonya.tinax.uikit
     - io.nekonya.tinax.vfs
     - io.nekonya.tinax.xcomponent
@@ -3171,6 +3176,82 @@ m_ResolvedPackages:
   hideInEditor: 1
   isAssetStorePackage: 0
   datePublishedTicks: 637821763858590000
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+- packageId: io.nekonya.tinax.i18n@6.6.6
+  testable: 0
+  isDirectDependency: 1
+  version: 6.6.6
+  source: 1
+  resolvedPath: D:\WorkSpace\Unity\Adventure\Library\PackageCache\io.nekonya.tinax.i18n@6.6.6
+  assetPath: Packages/io.nekonya.tinax.i18n
+  name: io.nekonya.tinax.i18n
+  displayName: TinaX.I18N
+  author:
+    name: yomunsam
+    email: yomunsam@gmail.com
+    url: https://yomunchan.moe
+  category: 
+  type: library
+  description: I18N Tools
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 6.6.1
+    - 6.6.2
+    - 6.6.3
+    - 6.6.5
+    - 6.6.6
+    compatible:
+    - 6.6.1
+    - 6.6.2
+    - 6.6.3
+    - 6.6.5
+    - 6.6.6
+    verified: 
+  dependencies:
+  - name: io.nekonya.tinax.core
+    version: 6.6.18
+  - name: com.neuecc.unirx
+    version: 7.1.0
+  resolvedDependencies:
+  - name: io.nekonya.tinax.core
+    version: 6.6.25
+  - name: com.neuecc.unirx
+    version: 7.1.0
+  - name: com.cysharp.unitask
+    version: 2.3.1
+  keywords:
+  - TinaX
+  - TinaX Framework
+  - I18N
+  registry:
+    id: scoped:package.openupm.com
+    name: package.openupm.com
+    url: https://package.openupm.com
+    scopes:
+    - com.cysharp.unitask
+    - com.neuecc.unirx
+    - com.openupm
+    - io.nekonya.tinax.core
+    - io.nekonya.tinax.i18n
+    - io.nekonya.tinax.uikit
+    - io.nekonya.tinax.vfs
+    - io.nekonya.tinax.xcomponent
+    isDefault: 0
+    capabilities: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637426658121740000
   documentationUrl: 
   hasRepository: 0
   repository:
@@ -3236,6 +3317,7 @@ m_ResolvedPackages:
     - com.neuecc.unirx
     - com.openupm
     - io.nekonya.tinax.core
+    - io.nekonya.tinax.i18n
     - io.nekonya.tinax.uikit
     - io.nekonya.tinax.vfs
     - io.nekonya.tinax.xcomponent
